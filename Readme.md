@@ -30,7 +30,7 @@ A simple **Task Manager** application built using **Python** and **SQLite**. Thi
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/M-s-vignesh/Task_Management.git
-   cd task-manager
+   cd Task_Management
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
